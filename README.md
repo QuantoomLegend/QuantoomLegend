@@ -1,0 +1,2 @@
+- Hi, I’m @QuantoomLegend
+- I'm start programming in C#
